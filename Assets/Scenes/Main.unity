@@ -754,7 +754,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -972,9 +972,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f89f08af174b2429fa05c0f98bf2322b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectToSpawn: {fileID: 4011972996793112326, guid: e70f40a59d2c0d84ea2cf69c76df285c,
+  objectToSpawn: {fileID: 9067961017651697339, guid: a3bd1d5779be9fb45af076c5d06455d8,
     type: 3}
-  zoomSlider: {fileID: 0}
+  zoomSlider: {fileID: 1797046192}
   minZoom: 0.5
   maxZoom: 2
 --- !u!1 &1797046190
