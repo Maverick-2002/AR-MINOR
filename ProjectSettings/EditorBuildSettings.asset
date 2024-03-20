@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Main.unity
     guid: 1bf989949288547c6a8ccd3267fc9535
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/FaceTrack.unity
     guid: 299f2e9b3ea49f5409fbb22888c74e42
   m_configObjects:
